@@ -1,4 +1,4 @@
 references
 .vscode
-assets
+assets/*.js
 .DS_Store
